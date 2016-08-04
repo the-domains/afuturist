@@ -1,0 +1,14 @@
+layout_spectrum: 0.9382376279681921
+typography_spectrum: 0.4340289591345936
+color:
+  brandStrength: 0.6566780223511159
+  lightness: 0.010147263063117862
+  saturation: 0.13279532734304667
+  rhythmicContrast: 0.06193674239329994
+  brandColors:
+    - '#1A1F2B'
+    - '#30395C'
+    - '#4A6491'
+    - '#85A5CC'
+    - '#D0E4F2'
+name: AFuturist
